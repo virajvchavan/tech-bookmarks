@@ -1,5 +1,5 @@
 # tech-bookmarks
-Bookmarks related to tech/programming to keep track of
+Bookmarks related to tech/programming to keep track of for me
 
 Learn:
   - https://dev.to/ananyaneogi/html-can-do-that-c0n
