@@ -3,6 +3,7 @@ Bookmarks related to tech/programming to keep track of for me
 
 Learn:
   - https://dev.to/ananyaneogi/html-can-do-that-c0n
+  - https://www.masterywithsql.com/
   
 Find projects to work on:
   - https://findcollabs.com/
