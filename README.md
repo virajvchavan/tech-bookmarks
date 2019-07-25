@@ -5,6 +5,9 @@ Learn:
   - https://dev.to/ananyaneogi/html-can-do-that-c0n
   - https://www.masterywithsql.com/
   
+To be read completely:
+- https://wiki.theory.org/index.php/YourLanguageSucks
+  
 Find projects to work on:
   - https://findcollabs.com/
   - https://www.codetriage.com/
