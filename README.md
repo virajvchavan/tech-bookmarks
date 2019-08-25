@@ -6,10 +6,13 @@ Learn:
   - https://www.masterywithsql.com/
   
 To be read completely:
-- https://wiki.theory.org/index.php/YourLanguageSucks
+  - https://wiki.theory.org/index.php/YourLanguageSucks
   
 Find projects to work on:
   - https://findcollabs.com/
   - https://www.codetriage.com/
   - https://24pullrequests.com/
   - https://issuehunt.io/
+  
+Remote Work:
+  - https://usefyi.com/remote-work-resources/
