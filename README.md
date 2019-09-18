@@ -16,3 +16,4 @@ Find projects to work on:
   
 Remote Work:
   - https://usefyi.com/remote-work-resources/
+  - https://remotesome.com/
