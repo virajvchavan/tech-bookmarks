@@ -20,3 +20,4 @@ Remote Work:
   - https://remotesome.com/
   - https://6nomads.com/
   - https://www.helloremote.co/
+  - http://www.hnhiring.me/
