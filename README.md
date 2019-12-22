@@ -22,3 +22,4 @@ Remote Work:
   - https://www.helloremote.co/
   - http://www.hnhiring.me/
   - https://stackraft.com/
+  - https://blog.invidelabs.com/list-of-companies-with-100-remote-dna-hiring-engineers-from-india/
