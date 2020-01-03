@@ -17,6 +17,7 @@ Find projects to work on:
   - https://issuehunt.io/
   
 Remote Work:
+  - https://docs.google.com/spreadsheets/u/1/d/1TLJSlNxCbwRNxy14Toe1PYwbCTY7h0CNHeer9J0VRzE/htmlview#gid=1279011369
   - https://usefyi.com/remote-work-resources/
   - https://remotesome.com/
   - https://6nomads.com/
