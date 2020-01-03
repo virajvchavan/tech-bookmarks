@@ -8,6 +8,7 @@ Learn:
 Something to read:
   - https://wiki.theory.org/index.php/YourLanguageSucks
   - https://12factor.net
+  - http://index-of.es
   
 Find projects to work on:
   - https://findcollabs.com/
